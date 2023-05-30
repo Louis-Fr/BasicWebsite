@@ -1,0 +1,29 @@
+h1 {
+    color: teal;
+}
+
+/* selecteur class*/
+.orderedList {
+    font-weight: bold;
+}
+
+
+.textMailto1 {
+    font-size: medium;
+}
+
+/* plusieurs propriétés sur 1 même selecteur */
+.textMailto2 {
+    text-shadow: 2em;
+    size: 5px;
+}
+
+
+/* selecteur id */
+#tarifList {
+    font-style: italic;
+}
+
+.logoSocial {
+    font-size: ;
+    }
